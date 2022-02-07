@@ -10,5 +10,3 @@
 - remove run.exe so ctrl+r doesnt work (if possible show a message instead) (cmd for running `c:\windows\system32\rundll32.exe shell32.dll,#61`)
 - remove taskmgr.exe
 - remove cmd.exe
-
-#### encrypt and/or delete all files???
